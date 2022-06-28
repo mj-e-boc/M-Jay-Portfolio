@@ -1,0 +1,29 @@
+.body {
+    background-color: #191765;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.navlist {
+    display: flex;
+    color: #ffffff;
+    justify-content: flex-end;
+    margin-right: 80px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.navitem {
+    list-style: none;
+    margin-right: 20px;
+}
+
+.navitem:first-child {
+    margin-right: auto;
+    margin-left: 40px;
+}
