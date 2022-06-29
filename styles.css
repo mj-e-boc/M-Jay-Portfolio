@@ -7,7 +7,7 @@
 }
 
 a {
-    color: #ffffff;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ a {
 
 .navlist {
     display: flex;
-    color: #ffffff;
+    color: #fff;
     justify-content: flex-end;
     margin-right: 10%;
     font-style: normal;
@@ -78,7 +78,7 @@ a {
     display: flex;
     flex-direction: column;
     list-style: none;
-    color: #ffffff;
+    color: #fff;
     justify-content: space-evenly;
     border-bottom: 3%;
 }
@@ -106,10 +106,10 @@ a {
 
 .footer {
     display: flex;
-    color: #ffffff;
+    color: #fff;
     justify-content: space-evenly;
     list-style: none;
     margin-left: 40%;
     margin-right: 40%;
-    height: 20px;
+    height: 22px;
 }
